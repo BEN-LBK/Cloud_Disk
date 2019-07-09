@@ -1,0 +1,46 @@
+[2019-06-26 02:14:34]--[src_cgi/upload_cgi.c:616]--madison成功上传[top1.png, 大小：27722, md5码：3f3b68cfb16ecc029c41906c191517c4]到本地
+[2019-06-26 02:14:35]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/wKgACl0SZIuAfBxUAABsSm3eEwY131.png] succ!
+[2019-06-26 02:14:35]--[src_cgi/upload_cgi.c:456]--file url is: http://192.168.0.10:80/group1/M00/00/00/wKgACl0SZIuAfBxUAABsSm3eEwY131.png
+[2019-06-26 02:14:35]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('3f3b68cfb16ecc029c41906c191517c4', 'group1/M00/00/00/wKgACl0SZIuAfBxUAABsSm3eEwY131.png', 'http://192.168.0.10:80/group1/M00/00/00/wKgACl0SZIuAfBxUAABsSm3eEwY131.png', '27722', 'png', 1) 文件信息插入成功
+[2019-06-26 02:14:52]--[src_cgi/upload_cgi.c:616]--madison成功上传[top2.png, 大小：30775, md5码：0b3d6834c056aea6e63a6d54d3f15bb8]到本地
+[2019-06-26 02:14:52]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/wKgACl0SZJyAMUDxAAB4N65QicA451.png] succ!
+[2019-06-26 02:14:52]--[src_cgi/upload_cgi.c:456]--file url is: http://192.168.0.10:80/group1/M00/00/00/wKgACl0SZJyAMUDxAAB4N65QicA451.png
+[2019-06-26 02:14:52]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('0b3d6834c056aea6e63a6d54d3f15bb8', 'group1/M00/00/00/wKgACl0SZJyAMUDxAAB4N65QicA451.png', 'http://192.168.0.10:80/group1/M00/00/00/wKgACl0SZJyAMUDxAAB4N65QicA451.png', '30775', 'png', 1) 文件信息插入成功
+[2019-06-26 02:14:53]--[src_cgi/upload_cgi.c:616]--madison成功上传[top3.png, 大小：32648, md5码：0f3a7c3b2e82b201421a76578249634d]到本地
+[2019-06-26 02:14:53]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/wKgACl0SZJ2AE4jiAAB_iAFr4Y8535.png] succ!
+[2019-06-26 02:14:53]--[src_cgi/upload_cgi.c:456]--file url is: http://192.168.0.10:80/group1/M00/00/00/wKgACl0SZJ2AE4jiAAB_iAFr4Y8535.png
+[2019-06-26 02:14:53]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('0f3a7c3b2e82b201421a76578249634d', 'group1/M00/00/00/wKgACl0SZJ2AE4jiAAB_iAFr4Y8535.png', 'http://192.168.0.10:80/group1/M00/00/00/wKgACl0SZJ2AE4jiAAB_iAFr4Y8535.png', '32648', 'png', 1) 文件信息插入成功
+[2019-06-26 02:24:50]--[src_cgi/upload_cgi.c:616]--admin成功上传[main.cpp, 大小：198, md5码：5f2a390a60cb3d51355469fea61efa0b]到本地
+[2019-06-26 02:24:50]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/wKgACl0SZvKAeZtzAAAAxnRgnrY488.cpp] succ!
+[2019-06-26 02:24:50]--[src_cgi/upload_cgi.c:456]--file url is: http://192.168.0.10:80/group1/M00/00/00/wKgACl0SZvKAeZtzAAAAxnRgnrY488.cpp
+[2019-06-26 02:24:50]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('5f2a390a60cb3d51355469fea61efa0b', 'group1/M00/00/00/wKgACl0SZvKAeZtzAAAAxnRgnrY488.cpp', 'http://192.168.0.10:80/group1/M00/00/00/wKgACl0SZvKAeZtzAAAAxnRgnrY488.cpp', '198', 'cpp', 1) 文件信息插入成功
+[2019-06-26 02:54:14]--[src_cgi/upload_cgi.c:616]--root成功上传[hello.html, 大小：18985, md5码：ff6536238c43f7b904dca6976737271f]到本地
+[2019-06-26 02:54:14]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/wKgACl0SbdaAQPSfAABKKUZCTI033.html] succ!
+[2019-06-26 02:54:14]--[src_cgi/upload_cgi.c:456]--file url is: http://192.168.0.10:80/group1/M00/00/00/wKgACl0SbdaAQPSfAABKKUZCTI033.html
+[2019-06-26 02:54:14]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('ff6536238c43f7b904dca6976737271f', 'group1/M00/00/00/wKgACl0SbdaAQPSfAABKKUZCTI033.html', 'http://192.168.0.10:80/group1/M00/00/00/wKgACl0SbdaAQPSfAABKKUZCTI033.html', '18985', 'html', 1) 文件信息插入成功
+[2019-06-26 17:35:31]--[src_cgi/upload_cgi.c:604]--len = 0, No data from standard input
+[2019-06-26 17:43:38]--[src_cgi/upload_cgi.c:42]--mysql:[user=admin,pwd=admin,database=cloud_disk][2019-06-26 17:49:35]--[src_cgi/upload_cgi.c:42]--mysql:[user=admin,pwd=admin,database=cloud_disk][2019-06-26 17:55:37]--[src_cgi/upload_cgi.c:42]--mysql:[user=admin,pwd=admin,database=cloud_disk][2019-06-26 18:06:01]--[src_cgi/upload_cgi.c:616]--kevin成功上传[global.h, 大小：91, md5码：fb5f25364a4329219201a320280f7bf1]到本地
+[2019-06-26 18:06:01]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/wKgACl0TQ4mABHA9AAAAW6sdX2M27706.h] succ!
+[2019-06-26 18:06:01]--[src_cgi/upload_cgi.c:456]--file url is: http://192.168.0.10:80/group1/M00/00/00/wKgACl0TQ4mABHA9AAAAW6sdX2M27706.h
+[2019-06-26 18:06:01]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('fb5f25364a4329219201a320280f7bf1', 'group1/M00/00/00/wKgACl0TQ4mABHA9AAAAW6sdX2M27706.h', 'http://192.168.0.10:80/group1/M00/00/00/wKgACl0TQ4mABHA9AAAAW6sdX2M27706.h', '91', 'h', 1) 文件信息插入成功
+[2019-06-26 18:06:15]--[src_cgi/upload_cgi.c:616]--kevin成功上传[login.cpp, 大小：16871, md5码：e981cee12650bc04d676eefb6d68e5ac]到本地
+[2019-06-26 18:06:15]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/wKgACl0TQ5eAS-eMAABB57tIyEU584.cpp] succ!
+[2019-06-26 18:06:15]--[src_cgi/upload_cgi.c:456]--file url is: http://192.168.0.10:80/group1/M00/00/00/wKgACl0TQ5eAS-eMAABB57tIyEU584.cpp
+[2019-06-26 18:06:15]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('e981cee12650bc04d676eefb6d68e5ac', 'group1/M00/00/00/wKgACl0TQ5eAS-eMAABB57tIyEU584.cpp', 'http://192.168.0.10:80/group1/M00/00/00/wKgACl0TQ5eAS-eMAABB57tIyEU584.cpp', '16871', 'cpp', 1) 文件信息插入成功
+[2019-06-26 18:06:36]--[src_cgi/upload_cgi.c:616]--kevin成功上传[title_share.png, 大小：9604, md5码：56a343b02b298ebb56ffcfde1a85299d]到本地
+[2019-06-26 18:06:36]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/wKgACl0TQ6yAGOc0AAAlhKPSEcM063.png] succ!
+[2019-06-26 18:06:36]--[src_cgi/upload_cgi.c:456]--file url is: http://192.168.0.10:80/group1/M00/00/00/wKgACl0TQ6yAGOc0AAAlhKPSEcM063.png
+[2019-06-26 18:06:36]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('56a343b02b298ebb56ffcfde1a85299d', 'group1/M00/00/00/wKgACl0TQ6yAGOc0AAAlhKPSEcM063.png', 'http://192.168.0.10:80/group1/M00/00/00/wKgACl0TQ6yAGOc0AAAlhKPSEcM063.png', '9604', 'png', 1) 文件信息插入成功
+[2019-06-26 18:06:37]--[src_cgi/upload_cgi.c:616]--kevin成功上传[title_user.png, 大小：38427, md5码：e837f9ab7f2b7daf29445c8d1c2d5ff9]到本地
+[2019-06-26 18:06:37]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/wKgACl0TQ62AZr2kAACWG7uuF4o334.png] succ!
+[2019-06-26 18:06:37]--[src_cgi/upload_cgi.c:456]--file url is: http://192.168.0.10:80/group1/M00/00/00/wKgACl0TQ62AZr2kAACWG7uuF4o334.png
+[2019-06-26 18:06:37]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('e837f9ab7f2b7daf29445c8d1c2d5ff9', 'group1/M00/00/00/wKgACl0TQ62AZr2kAACWG7uuF4o334.png', 'http://192.168.0.10:80/group1/M00/00/00/wKgACl0TQ62AZr2kAACWG7uuF4o334.png', '38427', 'png', 1) 文件信息插入成功
+[2019-06-26 18:06:54]--[src_cgi/upload_cgi.c:616]--kevin成功上传[login2.jpg, 大小：111789, md5码：086cd167e83f5e9dd9fcab1dbff4209e]到本地
+[2019-06-26 18:06:54]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/wKgACl0TQ76ABHskAAG0rdKVUW8288.jpg] succ!
+[2019-06-26 18:06:54]--[src_cgi/upload_cgi.c:456]--file url is: http://192.168.0.10:80/group1/M00/00/00/wKgACl0TQ76ABHskAAG0rdKVUW8288.jpg
+[2019-06-26 18:06:54]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('086cd167e83f5e9dd9fcab1dbff4209e', 'group1/M00/00/00/wKgACl0TQ76ABHskAAG0rdKVUW8288.jpg', 'http://192.168.0.10:80/group1/M00/00/00/wKgACl0TQ76ABHskAAG0rdKVUW8288.jpg', '111789', 'jpg', 1) 文件信息插入成功
+[2019-06-26 18:06:54]--[src_cgi/upload_cgi.c:616]--kevin成功上传[logo.ico, 大小：13982, md5码：0cc78b560045ae708ba0322f7b09fa3f]到本地
+[2019-06-26 18:06:54]--[src_cgi/upload_cgi.c:351]--get [group1/M00/00/00/wKgACl0TQ76AHGEDAAA2nn_3FIc381.ico] succ!
+[2019-06-26 18:06:54]--[src_cgi/upload_cgi.c:456]--file url is: http://192.168.0.10:80/group1/M00/00/00/wKgACl0TQ76AHGEDAAA2nn_3FIc381.ico
+[2019-06-26 18:06:54]--[src_cgi/upload_cgi.c:510]--insert into file_info (md5, file_id, url, size, type, count) values ('0cc78b560045ae708ba0322f7b09fa3f', 'group1/M00/00/00/wKgACl0TQ76AHGEDAAA2nn_3FIc381.ico', 'http://192.168.0.10:80/group1/M00/00/00/wKgACl0TQ76AHGEDAAA2nn_3FIc381.ico', '13982', 'ico', 1) 文件信息插入成功
+[2019-06-26 23:07:59]--[src_cgi/upload_cgi.c:42]--mysql:[user=admin,pwd=admin,database=cloud_disk]

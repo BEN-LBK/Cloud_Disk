@@ -1,0 +1,1 @@
+[2019-06-25 20:23:03]--[src_cgi/upload_cgi.c:42]--mysql:[user=admin,pwd=admin,database=cloud_disk][2019-06-25 21:54:04]--[src_cgi/upload_cgi.c:604]--len = 0, No data from standard input

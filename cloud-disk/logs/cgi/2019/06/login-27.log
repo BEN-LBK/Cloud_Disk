@@ -1,0 +1,12 @@
+[2019-06-27 01:26:04]--[src_cgi/login_cgi.c:288]--buf = {
+    "pwd": "e10adc3949ba59abbe56e057f20f883e",
+    "user": "kevin"
+}
+
+[2019-06-27 01:26:04]--[src_cgi/login_cgi.c:294]--user = kevin, pwd = e10adc3949ba59abbe56e057f20f883e
+[2019-06-27 01:26:04]--[src_cgi/login_cgi.c:101]--mysql_user = admin, mysql_pwd = admin, mysql_db = cloud_disk
+[2019-06-27 01:26:04]--[src_cgi/login_cgi.c:161]--redis:[ip=127.0.0.1,port=6379]
+[2019-06-27 01:26:04]--[src_cgi/login_cgi.c:185]--tmp = kevin683675661664
+[2019-06-27 01:26:04]--[src_cgi/login_cgi.c:201]--base64 = 7sKyj6KlPDFUXQL5BFXvvJ+HwxKUAZ0k
+[2019-06-27 01:26:04]--[src_cgi/login_cgi.c:303]--token = 12b2783d1e9d4100e65c21bd4a8d2374
+[2019-06-27 01:33:40]--[src_cgi/login_cgi.c:275]--len = 0, No data from standard input

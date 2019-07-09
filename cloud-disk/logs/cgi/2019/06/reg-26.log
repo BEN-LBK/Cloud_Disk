@@ -1,0 +1,100 @@
+[2019-06-26 02:09:18]--[src_cgi/reg_cgi.c:222]--len = 0, No data from standard input
+[2019-06-26 02:09:56]--[src_cgi/reg_cgi.c:222]--len = 0, No data from standard input
+[2019-06-26 02:10:26]--[src_cgi/reg_cgi.c:222]--len = 0, No data from standard input
+[2019-06-26 02:11:58]--[src_cgi/reg_cgi.c:236]--buf = {
+    "email": "BEN_LBK@163.com",
+    "firstPwd": "e10adc3949ba59abbe56e057f20f883e",
+    "nickName": "madison",
+    "phone": "13777859795",
+    "userName": "madison"
+}
+
+[2019-06-26 02:11:58]--[src_cgi/reg_cgi.c:128]--mysql_user = admin, mysql_pwd = admin, mysql_db = cloud_disk
+[2019-06-26 02:11:58]--[src_cgi/reg_cgi.c:141]--user = madison, nick_name = madison, pwd = e10adc3949ba59abbe56e057f20f883e, tel = 13777859795, email = BEN_LBK@163.com
+[2019-06-26 02:23:11]--[src_cgi/reg_cgi.c:236]--buf = {
+    "email": "abc@qq.com",
+    "firstPwd": "e10adc3949ba59abbe56e057f20f883e",
+    "nickName": "admin",
+    "phone": "11111111111",
+    "userName": "admin"
+}
+
+[2019-06-26 02:23:11]--[src_cgi/reg_cgi.c:128]--mysql_user = admin, mysql_pwd = admin, mysql_db = cloud_disk
+[2019-06-26 02:23:11]--[src_cgi/reg_cgi.c:141]--user = admin, nick_name = admin, pwd = e10adc3949ba59abbe56e057f20f883e, tel = 11111111111, email = abc@qq.com
+[2019-06-26 02:47:05]--[src_cgi/reg_cgi.c:236]--buf = {
+    "email": "BEN_LBK@163.com",
+    "firstPwd": "e10adc3949ba59abbe56e057f20f883e",
+    "nickName": "madison",
+    "phone": "13777859795",
+    "userName": "madison"
+}
+
+[2019-06-26 02:47:05]--[src_cgi/reg_cgi.c:128]--mysql_user = admin, mysql_pwd = admin, mysql_db = cloud_disk
+[2019-06-26 02:47:05]--[src_cgi/reg_cgi.c:141]--user = madison, nick_name = madison, pwd = e10adc3949ba59abbe56e057f20f883e, tel = 13777859795, email = BEN_LBK@163.com
+[2019-06-26 02:47:05]--[src_cgi/reg_cgi.c:165]--【(null)】该用户已存在
+[2019-06-26 02:47:29]--[src_cgi/reg_cgi.c:236]--buf = {
+    "email": "BEN_LBK@163.com",
+    "firstPwd": "e10adc3949ba59abbe56e057f20f883e",
+    "nickName": "root",
+    "phone": "13777859795",
+    "userName": "root"
+}
+
+[2019-06-26 02:47:29]--[src_cgi/reg_cgi.c:128]--mysql_user = admin, mysql_pwd = admin, mysql_db = cloud_disk
+[2019-06-26 02:47:29]--[src_cgi/reg_cgi.c:141]--user = root, nick_name = root, pwd = e10adc3949ba59abbe56e057f20f883e, tel = 13777859795, email = BEN_LBK@163.com
+[2019-06-26 02:48:10]--[src_cgi/reg_cgi.c:222]--len = 0, No data from standard input
+[2019-06-26 02:53:42]--[src_cgi/reg_cgi.c:222]--len = 0, No data from standard input
+[2019-06-26 17:58:55]--[src_cgi/reg_cgi.c:236]--buf = {
+    "email": "abc@qq.com",
+    "firstPwd": "e10adc3949ba59abbe56e057f20f883e",
+    "nickName": "kevin",
+    "phone": "11111111111",
+    "userName": "kevin"
+}
+
+[2019-06-26 17:58:55]--[src_cgi/reg_cgi.c:128]--mysql_user = admin, mysql_pwd = admin, mysql_db = cloud_disk
+[2019-06-26 17:58:55]--[src_cgi/reg_cgi.c:141]--user = kevin, nick_name = kevin, pwd = e10adc3949ba59abbe56e057f20f883e, tel = 11111111111, email = abc@qq.com
+[2019-06-26 23:28:39]--[src_cgi/reg_cgi.c:236]--buf = {
+    "email": "abc@qq.com",
+    "firstPwd": "e10adc3949ba59abbe56e057f20f883e",
+    "nickName": "kevin",
+    "phone": "11111111111",
+    "userName": "kevin"
+}
+
+[2019-06-26 23:28:39]--[src_cgi/reg_cgi.c:128]--mysql_user = admin, mysql_pwd = admin, mysql_db = cloud_disk
+[2019-06-26 23:28:39]--[src_cgi/reg_cgi.c:141]--user = kevin, nick_name = kevin, pwd = e10adc3949ba59abbe56e057f20f883e, tel = 11111111111, email = abc@qq.com
+[2019-06-26 23:28:40]--[src_cgi/reg_cgi.c:165]--【(null)】该用户已存在
+[2019-06-26 23:28:40]--[src_cgi/reg_cgi.c:236]--buf = {
+    "email": "abc@qq.com",
+    "firstPwd": "e10adc3949ba59abbe56e057f20f883e",
+    "nickName": "kevin",
+    "phone": "11111111111",
+    "userName": "kevin"
+}
+
+[2019-06-26 23:28:40]--[src_cgi/reg_cgi.c:128]--mysql_user = admin, mysql_pwd = admin, mysql_db = cloud_disk
+[2019-06-26 23:28:40]--[src_cgi/reg_cgi.c:141]--user = kevin, nick_name = kevin, pwd = e10adc3949ba59abbe56e057f20f883e, tel = 11111111111, email = abc@qq.com
+[2019-06-26 23:28:40]--[src_cgi/reg_cgi.c:165]--【(null)】该用户已存在
+[2019-06-26 23:28:40]--[src_cgi/reg_cgi.c:236]--buf = {
+    "email": "abc@qq.com",
+    "firstPwd": "e10adc3949ba59abbe56e057f20f883e",
+    "nickName": "kevin",
+    "phone": "11111111111",
+    "userName": "kevin"
+}
+
+[2019-06-26 23:28:40]--[src_cgi/reg_cgi.c:128]--mysql_user = admin, mysql_pwd = admin, mysql_db = cloud_disk
+[2019-06-26 23:28:40]--[src_cgi/reg_cgi.c:141]--user = kevin, nick_name = kevin, pwd = e10adc3949ba59abbe56e057f20f883e, tel = 11111111111, email = abc@qq.com
+[2019-06-26 23:28:40]--[src_cgi/reg_cgi.c:165]--【(null)】该用户已存在
+[2019-06-26 23:28:40]--[src_cgi/reg_cgi.c:236]--buf = {
+    "email": "abc@qq.com",
+    "firstPwd": "e10adc3949ba59abbe56e057f20f883e",
+    "nickName": "kevin",
+    "phone": "11111111111",
+    "userName": "kevin"
+}
+
+[2019-06-26 23:28:40]--[src_cgi/reg_cgi.c:128]--mysql_user = admin, mysql_pwd = admin, mysql_db = cloud_disk
+[2019-06-26 23:28:40]--[src_cgi/reg_cgi.c:141]--user = kevin, nick_name = kevin, pwd = e10adc3949ba59abbe56e057f20f883e, tel = 11111111111, email = abc@qq.com
+[2019-06-26 23:28:40]--[src_cgi/reg_cgi.c:165]--【(null)】该用户已存在

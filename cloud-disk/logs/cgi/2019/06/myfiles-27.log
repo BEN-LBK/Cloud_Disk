@@ -1,0 +1,100 @@
+[2019-06-27 01:26:04]--[src_cgi/myfiles_cgi.c:496]--cmd = count
+[2019-06-27 01:26:04]--[src_cgi/myfiles_cgi.c:528]--buf = {
+    "token": "12b2783d1e9d4100e65c21bd4a8d2374",
+    "user": "kevin"
+}
+
+[2019-06-27 01:26:04]--[src_cgi/myfiles_cgi.c:176]--line = 8
+[2019-06-27 01:26:04]--[src_cgi/myfiles_cgi.c:496]--cmd = normal
+[2019-06-27 01:26:04]--[src_cgi/myfiles_cgi.c:528]--buf = {
+    "count": 8,
+    "start": 0,
+    "token": "12b2783d1e9d4100e65c21bd4a8d2374",
+    "user": "kevin"
+}
+
+[2019-06-27 01:26:04]--[src_cgi/myfiles_cgi.c:548]--user = kevin, token = 12b2783d1e9d4100e65c21bd4a8d2374, start = 0, count = 8
+[2019-06-27 01:26:04]--[src_cgi/myfiles_cgi.c:306]--select user_file_list.*, file_info.url, file_info.size, file_info.type from file_info, user_file_list where user = 'kevin' and file_info.md5 = user_file_list.md5 limit 0, 8 在操作
+[2019-06-27 01:26:04]--[src_cgi/myfiles_cgi.c:428]--{
+	"files":	[{
+			"user":	"kevin",
+			"md5":	"fb5f25364a4329219201a320280f7bf1",
+			"time":	"2019-06-26 18:06:01",
+			"filename":	"global.h",
+			"share_status":	0,
+			"pv":	1,
+			"url":	"http://192.168.0.10:80/group1/M00/00/00/wKgACl0TQ4mABHA9AAAAW6sdX2M27706.h",
+			"size":	91,
+			"type":	"h"
+		}, {
+			"user":	"kevin",
+			"md5":	"e981cee12650bc04d676eefb6d68e5ac",
+			"time":	"2019-06-26 18:06:15",
+			"filename":	"login.cpp",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://192.168.0.10:80/group1/M00/00/00/wKgACl0TQ5eAS-eMAABB57tIyEU584.cpp",
+			"size":	16871,
+			"type":	"cpp"
+		}, {
+			"user":	"kevin",
+			"md5":	"56a343b02b298ebb56ffcfde1a85299d",
+			"time":	"2019-06-26 18:06:36",
+			"filename":	"title_share.png",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://192.168.0.10:80/group1/M00/00/00/wKgACl0TQ6yAGOc0AAAlhKPSEcM063.png",
+			"size":	9604,
+			"type":	"png"
+		}, {
+			"user":	"kevin",
+			"md5":	"e837f9ab7f2b7daf29445c8d1c2d5ff9",
+			"time":	"2019-06-26 18:06:37",
+			"filename":	"title_user.png",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://192.168.0.10:80/group1/M00/00/00/wKgACl0TQ62AZr2kAACWG7uuF4o334.png",
+			"size":	38427,
+			"type":	"png"
+		}, {
+			"user":	"kevin",
+			"md5":	"3f3b68cfb16ecc029c41906c191517c4",
+			"time":	"2019-06-26 18:06:37",
+			"filename":	"top1.png",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://192.168.0.10:80/group1/M00/00/00/wKgACl0SZIuAfBxUAABsSm3eEwY131.png",
+			"size":	27722,
+			"type":	"png"
+		}, {
+			"user":	"kevin",
+			"md5":	"086cd167e83f5e9dd9fcab1dbff4209e",
+			"time":	"2019-06-26 18:06:54",
+			"filename":	"login2.jpg",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://192.168.0.10:80/group1/M00/00/00/wKgACl0TQ76ABHskAAG0rdKVUW8288.jpg",
+			"size":	111789,
+			"type":	"jpg"
+		}, {
+			"user":	"kevin",
+			"md5":	"0cc78b560045ae708ba0322f7b09fa3f",
+			"time":	"2019-06-26 18:06:54",
+			"filename":	"logo.ico",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://192.168.0.10:80/group1/M00/00/00/wKgACl0TQ76AHGEDAAA2nn_3FIc381.ico",
+			"size":	13982,
+			"type":	"ico"
+		}, {
+			"user":	"kevin",
+			"md5":	"0f3a7c3b2e82b201421a76578249634d",
+			"time":	"2019-06-26 22:27:55",
+			"filename":	"top3.png",
+			"share_status":	0,
+			"pv":	0,
+			"url":	"http://192.168.0.10:80/group1/M00/00/00/wKgACl0SZJ2AE4jiAAB_iAFr4Y8535.png",
+			"size":	32648,
+			"type":	"png"
+		}]
+}

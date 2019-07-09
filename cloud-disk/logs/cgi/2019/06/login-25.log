@@ -1,0 +1,30 @@
+[2019-06-25 21:53:49]--[src_cgi/login_cgi.c:275]--len = 0, No data from standard input
+[2019-06-25 22:51:21]--[src_cgi/login_cgi.c:275]--len = 0, No data from standard input
+[2019-06-25 23:46:46]--[src_cgi/login_cgi.c:288]--buf = {
+    "pwd": "e10adc3949ba59abbe56e057f20f883e",
+    "user": "madison"
+}
+
+[2019-06-25 23:46:46]--[src_cgi/login_cgi.c:294]--user = madison, pwd = e10adc3949ba59abbe56e057f20f883e
+[2019-06-25 23:46:46]--[src_cgi/login_cgi.c:101]--mysql_user = admin, mysql_pwd = admin, mysql_db = cloud_disk
+[2019-06-25 23:46:53]--[src_cgi/login_cgi.c:288]--buf = {
+    "pwd": "e10adc3949ba59abbe56e057f20f883e",
+    "user": "madison"
+}
+
+[2019-06-25 23:46:53]--[src_cgi/login_cgi.c:294]--user = madison, pwd = e10adc3949ba59abbe56e057f20f883e
+[2019-06-25 23:46:53]--[src_cgi/login_cgi.c:101]--mysql_user = admin, mysql_pwd = admin, mysql_db = cloud_disk
+[2019-06-25 23:47:31]--[src_cgi/login_cgi.c:288]--buf = {
+    "pwd": "e10adc3949ba59abbe56e057f20f883e",
+    "user": "madison"
+}
+
+[2019-06-25 23:47:31]--[src_cgi/login_cgi.c:294]--user = madison, pwd = e10adc3949ba59abbe56e057f20f883e
+[2019-06-25 23:47:31]--[src_cgi/login_cgi.c:101]--mysql_user = admin, mysql_pwd = admin, mysql_db = cloud_disk
+[2019-06-25 23:47:42]--[src_cgi/login_cgi.c:288]--buf = {
+    "pwd": "e10adc3949ba59abbe56e057f20f883e",
+    "user": "madison"
+}
+
+[2019-06-25 23:47:42]--[src_cgi/login_cgi.c:294]--user = madison, pwd = e10adc3949ba59abbe56e057f20f883e
+[2019-06-25 23:47:42]--[src_cgi/login_cgi.c:101]--mysql_user = admin, mysql_pwd = admin, mysql_db = cloud_disk

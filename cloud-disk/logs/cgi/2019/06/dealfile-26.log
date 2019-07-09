@@ -1,0 +1,31 @@
+[2019-06-26 02:19:44]--[src_cgi/dealfile_cgi.c:695]--cmd = share
+[2019-06-26 02:19:44]--[src_cgi/dealfile_cgi.c:727]--buf = {
+    "filename": "top3.png",
+    "md5": "0f3a7c3b2e82b201421a76578249634d",
+    "token": "4fac6436d9443ee13093ea6537ada4b4",
+    "user": "madison"
+}
+
+[2019-06-26 02:19:44]--[src_cgi/dealfile_cgi.c:730]--user = madison, token = 4fac6436d9443ee13093ea6537ada4b4, md5 = 0f3a7c3b2e82b201421a76578249634d, filename = top3.png
+[2019-06-26 17:43:38]--[src_cgi/dealfile_cgi.c:42]--mysql:[user=admin,pwd=admin,database=cloud_disk][2019-06-26 17:43:38]--[src_cgi/dealfile_cgi.c:47]--redis:[ip=127.0.0.1,port=6379]
+[2019-06-26 17:49:35]--[src_cgi/dealfile_cgi.c:42]--mysql:[user=admin,pwd=admin,database=cloud_disk][2019-06-26 17:49:35]--[src_cgi/dealfile_cgi.c:47]--redis:[ip=127.0.0.1,port=6379]
+[2019-06-26 17:55:37]--[src_cgi/dealfile_cgi.c:42]--mysql:[user=admin,pwd=admin,database=cloud_disk][2019-06-26 17:55:37]--[src_cgi/dealfile_cgi.c:47]--redis:[ip=127.0.0.1,port=6379]
+[2019-06-26 22:14:05]--[src_cgi/dealfile_cgi.c:695]--cmd = pv
+[2019-06-26 22:14:05]--[src_cgi/dealfile_cgi.c:727]--buf = {
+    "filename": "global.h",
+    "md5": "fb5f25364a4329219201a320280f7bf1",
+    "token": "27f87a8c6d9d9218af275679293941fb",
+    "user": "kevin"
+}
+
+[2019-06-26 22:14:05]--[src_cgi/dealfile_cgi.c:730]--user = kevin, token = 27f87a8c6d9d9218af275679293941fb, md5 = fb5f25364a4329219201a320280f7bf1, filename = global.h
+[2019-06-26 22:30:38]--[src_cgi/dealfile_cgi.c:695]--cmd = share
+[2019-06-26 22:30:38]--[src_cgi/dealfile_cgi.c:727]--buf = {
+    "filename": "login2.jpg",
+    "md5": "086cd167e83f5e9dd9fcab1dbff4209e",
+    "token": "27f87a8c6d9d9218af275679293941fb",
+    "user": "kevin"
+}
+
+[2019-06-26 22:30:38]--[src_cgi/dealfile_cgi.c:730]--user = kevin, token = 27f87a8c6d9d9218af275679293941fb, md5 = 086cd167e83f5e9dd9fcab1dbff4209e, filename = login2.jpg
+[2019-06-26 23:07:59]--[src_cgi/dealfile_cgi.c:42]--mysql:[user=admin,pwd=admin,database=cloud_disk][2019-06-26 23:07:59]--[src_cgi/dealfile_cgi.c:47]--redis:[ip=127.0.0.1,port=6379]

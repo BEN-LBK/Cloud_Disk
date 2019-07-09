@@ -1,0 +1,377 @@
+[2019-06-26 02:13:30]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:13:30]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:13:31]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:13:31]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:14:10]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:14:10]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:14:10]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:14:10]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:14:34]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:14:34]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:14:38]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:14:38]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:14:38]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:14:38]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:14:52]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:14:52]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:14:53]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:14:53]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:14:54]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:14:54]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:14:54]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:14:54]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:15:23]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:15:23]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:15:23]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:15:23]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:15:28]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:15:28]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:15:28]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:15:28]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:17:36]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:17:36]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:17:36]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:17:36]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:19:44]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:19:44]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:19:44]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:19:44]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:20:10]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:20:10]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:20:10]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:20:10]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:20:23]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:20:23]--[common/redis_op.c:329]--[+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+[2019-06-26 02:20:23]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:20:49]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:20:49]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:20:49]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:20:49]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:23:22]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:23:22]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:23:22]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:23:22]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:23:28]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:23:28]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:23:30]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:23:30]--[common/redis_op.c:329]--[+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+[2019-06-26 02:23:30]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:23:33]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:23:33]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:24:50]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:24:50]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:25:10]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:25:10]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:25:10]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:25:10]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:25:18]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:25:18]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:27:14]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:27:14]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:27:14]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:27:14]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:35:31]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:35:31]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:35:31]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:35:31]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:35:31]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:35:31]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:35:59]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:35:59]--[common/redis_op.c:329]--[+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+[2019-06-26 02:35:59]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:36:38]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:36:38]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:36:38]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:36:38]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:36:38]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:36:38]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:36:40]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:36:40]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:36:40]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:36:40]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:36:42]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:36:42]--[common/redis_op.c:329]--[+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+[2019-06-26 02:36:42]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:36:43]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:36:43]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:36:44]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:36:44]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:36:45]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:36:45]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:36:45]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:36:45]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:36:56]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:36:56]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:37:06]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:37:06]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:37:06]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:37:06]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:37:09]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:37:09]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:37:09]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:37:09]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:37:59]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:37:59]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:37:59]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:37:59]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:39:00]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:39:00]--[common/redis_op.c:329]--[+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+[2019-06-26 02:39:00]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:39:16]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:39:16]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:39:16]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:39:16]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:39:17]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:39:17]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:39:19]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:39:19]--[common/redis_op.c:329]--[+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+[2019-06-26 02:39:19]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:39:20]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:39:20]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:39:20]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:39:20]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:42:43]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:42:43]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:42:44]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:42:44]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:42:44]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:42:44]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:42:51]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:42:51]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:42:52]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:42:52]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:44:40]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:44:40]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:44:40]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:44:40]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:45:14]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:45:14]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:45:14]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:45:14]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:45:14]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:45:14]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:45:21]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:45:21]--[common/redis_op.c:329]--[+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+[2019-06-26 02:45:21]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:45:27]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:45:27]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:45:27]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:45:27]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:45:28]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:45:28]--[common/redis_op.c:329]--[+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+[2019-06-26 02:45:28]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:45:36]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:45:36]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:45:36]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:45:36]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:45:44]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:45:44]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:45:44]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:45:44]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:45:44]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:45:44]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:45:51]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:45:51]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:45:51]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:45:51]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:46:02]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:46:02]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:46:02]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:46:02]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:46:03]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:46:03]--[common/redis_op.c:329]--[+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+[2019-06-26 02:46:03]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:46:05]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:46:05]--[common/redis_op.c:329]--[+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+[2019-06-26 02:46:05]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:46:08]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:46:08]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:46:08]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:46:08]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:46:17]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:46:17]--[common/redis_op.c:329]--[+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+[2019-06-26 02:46:17]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:46:19]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:46:19]--[common/redis_op.c:329]--[+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+[2019-06-26 02:46:19]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:46:30]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:46:30]--[common/redis_op.c:1294]--[-][GMS_REDIS]Add or increment table: FILE_PUBLIC_ZSET,member: 0f3a7c3b2e82b201421a76578249634dtop3.png Error:1,
+[2019-06-26 02:46:30]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:46:35]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:46:35]--[common/redis_op.c:329]--[+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+[2019-06-26 02:46:35]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:46:42]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:46:42]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:46:42]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:46:42]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:46:48]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:46:48]--[common/redis_op.c:329]--[+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+[2019-06-26 02:46:48]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:46:53]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:46:53]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:46:53]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:46:53]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:46:54]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:46:54]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:49:17]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:49:17]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:49:17]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:49:17]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:49:21]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:49:21]--[common/redis_op.c:329]--[+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+[2019-06-26 02:49:21]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:49:23]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:49:23]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 02:54:14]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 02:54:14]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 13:18:19]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 13:18:19]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 13:18:19]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 13:18:19]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 13:18:19]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 13:18:19]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 15:06:03]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 15:06:03]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 15:06:04]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 15:06:04]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 15:06:04]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 15:06:04]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 15:09:52]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 15:09:52]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 15:09:53]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 15:09:53]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 15:09:53]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 15:09:53]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 15:12:06]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 15:12:06]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 15:12:06]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 15:12:06]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 15:12:06]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 15:12:06]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 16:22:20]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 16:22:20]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 16:22:20]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 16:22:20]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 16:22:21]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 16:22:21]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 16:22:29]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 16:22:29]--[common/redis_op.c:329]--[+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+[2019-06-26 16:22:29]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 16:22:30]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 16:22:30]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 16:22:30]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 16:22:30]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 17:46:37]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 17:46:37]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 17:46:37]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 17:46:37]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 17:46:37]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 17:46:37]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 17:47:37]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 17:47:37]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 17:47:37]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 17:47:37]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 17:59:07]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 17:59:07]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 17:59:08]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 17:59:08]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 17:59:11]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 17:59:11]--[common/redis_op.c:329]--[+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+[2019-06-26 17:59:11]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 17:59:12]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 17:59:12]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 18:03:37]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 18:03:37]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 18:03:37]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 18:03:37]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 18:03:46]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 18:03:46]--[common/redis_op.c:329]--[+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+[2019-06-26 18:03:46]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 18:03:58]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 18:03:58]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 18:04:45]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 18:04:45]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 18:05:30]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 18:05:30]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 18:05:31]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 18:05:31]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 18:06:01]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 18:06:01]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 18:06:03]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 18:06:03]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 18:06:03]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 18:06:03]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 18:06:15]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 18:06:15]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 18:06:16]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 18:06:16]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 18:06:16]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 18:06:16]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 18:06:36]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 18:06:36]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 18:06:37]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 18:06:37]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 18:06:37]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 18:06:37]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 18:06:39]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 18:06:39]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 18:06:39]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 18:06:39]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 18:06:54]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 18:06:54]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 18:06:54]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 18:06:54]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 18:06:56]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 18:06:56]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 18:06:56]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 18:06:56]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 22:14:05]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 22:14:05]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 22:27:43]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 22:27:43]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 22:27:44]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 22:27:44]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 22:27:46]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 22:27:47]--[common/redis_op.c:329]--[+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+[2019-06-26 22:27:47]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 22:27:47]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 22:27:47]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 22:27:47]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 22:27:47]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 22:27:55]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 22:27:55]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 22:27:57]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 22:27:57]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 22:27:57]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 22:27:57]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 22:30:11]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 22:30:11]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 22:30:11]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 22:30:11]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 22:30:14]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 22:30:14]--[common/redis_op.c:329]--[+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+[2019-06-26 22:30:14]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 22:30:15]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 22:30:15]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 22:30:15]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 22:30:15]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 22:30:30]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 22:30:30]--[common/redis_op.c:329]--[+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+[2019-06-26 22:30:30]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 22:30:33]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 22:30:33]--[common/redis_op.c:329]--[+][GMS_REDIS]=REDIS_REPLY_string=[string] use reply->str to get data, reply->len get data len
+[2019-06-26 22:30:33]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 22:30:35]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 22:30:35]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 22:30:35]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 22:30:35]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 22:30:38]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 22:30:38]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 22:30:38]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 22:30:38]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 23:35:22]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 23:35:22]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 23:35:22]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 23:35:22]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!
+[2019-06-26 23:35:22]--[common/redis_op.c:369]--[+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+[2019-06-26 23:35:22]--[common/redis_op.c:525]--[+][GMS_REDIS]Disconnect SUCCESS!

@@ -1,0 +1,1065 @@
+[2019-06-26 02:13:58]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 02:13:58]--[src_cgi/sharefiles_cgi.c:73]--select count from user_file_count where user="xxx_share_xxx_file_xxx_list_xxx_count_xxx" 操作失败
+[2019-06-26 02:13:58]--[src_cgi/sharefiles_cgi.c:85]--line = 0
+[2019-06-26 02:14:02]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 02:14:02]--[src_cgi/sharefiles_cgi.c:73]--select count from user_file_count where user="xxx_share_xxx_file_xxx_list_xxx_count_xxx" 操作失败
+[2019-06-26 02:14:02]--[src_cgi/sharefiles_cgi.c:85]--line = 0
+[2019-06-26 02:15:21]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 02:15:21]--[src_cgi/sharefiles_cgi.c:73]--select count from user_file_count where user="xxx_share_xxx_file_xxx_list_xxx_count_xxx" 操作失败
+[2019-06-26 02:15:21]--[src_cgi/sharefiles_cgi.c:85]--line = 0
+[2019-06-26 02:15:23]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 02:15:23]--[src_cgi/sharefiles_cgi.c:73]--select count from user_file_count where user="xxx_share_xxx_file_xxx_list_xxx_count_xxx" 操作失败
+[2019-06-26 02:15:23]--[src_cgi/sharefiles_cgi.c:85]--line = 0
+[2019-06-26 02:15:26]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 02:15:26]--[src_cgi/sharefiles_cgi.c:73]--select count from user_file_count where user="xxx_share_xxx_file_xxx_list_xxx_count_xxx" 操作失败
+[2019-06-26 02:15:26]--[src_cgi/sharefiles_cgi.c:85]--line = 0
+[2019-06-26 02:15:35]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 02:15:35]--[src_cgi/sharefiles_cgi.c:73]--select count from user_file_count where user="xxx_share_xxx_file_xxx_list_xxx_count_xxx" 操作失败
+[2019-06-26 02:15:35]--[src_cgi/sharefiles_cgi.c:85]--line = 0
+[2019-06-26 02:19:46]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 02:19:46]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 02:19:46]--[src_cgi/sharefiles_cgi.c:598]--cmd = normal
+[2019-06-26 02:19:46]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 02:19:46]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 02:19:46]--[src_cgi/sharefiles_cgi.c:172]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2019-06-26 02:19:46]--[src_cgi/sharefiles_cgi.c:292]--{
+	"files":	[{
+			"user":	"madison",
+			"md5":	"0f3a7c3b2e82b201421a76578249634d",
+			"time":	"2019-06-26 02:19:44",
+			"filename":	"top3.png",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://192.168.0.10:80/group1/M00/00/00/wKgACl0SZJ2AE4jiAAB_iAFr4Y8535.png",
+			"size":	32648,
+			"type":	"png"
+		}]
+}
+[2019-06-26 02:20:23]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 02:20:23]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 02:20:23]--[src_cgi/sharefiles_cgi.c:598]--cmd = pvdesc
+[2019-06-26 02:20:23]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 02:20:23]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 02:20:23]--[src_cgi/sharefiles_cgi.c:399]--sql_num = 1, redis_num = 4
+[2019-06-26 02:20:23]--[src_cgi/sharefiles_cgi.c:413]--select md5, filename, pv from share_file_list order by pv desc 在操作
+[2019-06-26 02:20:23]--[src_cgi/sharefiles_cgi.c:529]--{
+	"files":	[{
+			"filename":	"top3.png",
+			"pv":	0
+		}]
+}
+[2019-06-26 02:23:29]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 02:23:29]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 02:23:29]--[src_cgi/sharefiles_cgi.c:598]--cmd = normal
+[2019-06-26 02:23:29]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 02:23:29]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 02:23:29]--[src_cgi/sharefiles_cgi.c:172]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2019-06-26 02:23:29]--[src_cgi/sharefiles_cgi.c:292]--{
+	"files":	[{
+			"user":	"madison",
+			"md5":	"0f3a7c3b2e82b201421a76578249634d",
+			"time":	"2019-06-26 02:19:44",
+			"filename":	"top3.png",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://192.168.0.10:80/group1/M00/00/00/wKgACl0SZJ2AE4jiAAB_iAFr4Y8535.png",
+			"size":	32648,
+			"type":	"png"
+		}]
+}
+[2019-06-26 02:23:30]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 02:23:30]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 02:23:30]--[src_cgi/sharefiles_cgi.c:598]--cmd = pvdesc
+[2019-06-26 02:23:30]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 02:23:30]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 02:23:30]--[src_cgi/sharefiles_cgi.c:399]--sql_num = 1, redis_num = 1
+[2019-06-26 02:23:30]--[src_cgi/sharefiles_cgi.c:529]--{
+	"files":	[{
+			"filename":	"top3.png",
+			"pv":	0
+		}]
+}
+[2019-06-26 02:28:07]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 02:28:07]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 02:28:07]--[src_cgi/sharefiles_cgi.c:598]--cmd = normal
+[2019-06-26 02:28:07]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 02:28:07]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 02:28:07]--[src_cgi/sharefiles_cgi.c:172]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2019-06-26 02:28:07]--[src_cgi/sharefiles_cgi.c:292]--{
+	"files":	[{
+			"user":	"madison",
+			"md5":	"0f3a7c3b2e82b201421a76578249634d",
+			"time":	"2019-06-26 02:19:44",
+			"filename":	"top3.png",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://192.168.0.10:80/group1/M00/00/00/wKgACl0SZJ2AE4jiAAB_iAFr4Y8535.png",
+			"size":	32648,
+			"type":	"png"
+		}]
+}
+[2019-06-26 02:35:58]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 02:35:58]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 02:35:58]--[src_cgi/sharefiles_cgi.c:598]--cmd = normal
+[2019-06-26 02:35:58]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 02:35:58]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 02:35:58]--[src_cgi/sharefiles_cgi.c:172]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2019-06-26 02:35:58]--[src_cgi/sharefiles_cgi.c:292]--{
+	"files":	[{
+			"user":	"madison",
+			"md5":	"0f3a7c3b2e82b201421a76578249634d",
+			"time":	"2019-06-26 02:19:44",
+			"filename":	"top3.png",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://192.168.0.10:80/group1/M00/00/00/wKgACl0SZJ2AE4jiAAB_iAFr4Y8535.png",
+			"size":	32648,
+			"type":	"png"
+		}]
+}
+[2019-06-26 02:35:59]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 02:35:59]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 02:35:59]--[src_cgi/sharefiles_cgi.c:598]--cmd = pvdesc
+[2019-06-26 02:35:59]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 02:35:59]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 02:35:59]--[src_cgi/sharefiles_cgi.c:399]--sql_num = 1, redis_num = 1
+[2019-06-26 02:35:59]--[src_cgi/sharefiles_cgi.c:529]--{
+	"files":	[{
+			"filename":	"top3.png",
+			"pv":	0
+		}]
+}
+[2019-06-26 02:36:41]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 02:36:41]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 02:36:41]--[src_cgi/sharefiles_cgi.c:598]--cmd = normal
+[2019-06-26 02:36:41]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 02:36:41]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 02:36:41]--[src_cgi/sharefiles_cgi.c:172]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2019-06-26 02:36:41]--[src_cgi/sharefiles_cgi.c:292]--{
+	"files":	[{
+			"user":	"madison",
+			"md5":	"0f3a7c3b2e82b201421a76578249634d",
+			"time":	"2019-06-26 02:19:44",
+			"filename":	"top3.png",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://192.168.0.10:80/group1/M00/00/00/wKgACl0SZJ2AE4jiAAB_iAFr4Y8535.png",
+			"size":	32648,
+			"type":	"png"
+		}]
+}
+[2019-06-26 02:36:42]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 02:36:42]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 02:36:42]--[src_cgi/sharefiles_cgi.c:598]--cmd = pvdesc
+[2019-06-26 02:36:42]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 02:36:42]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 02:36:42]--[src_cgi/sharefiles_cgi.c:399]--sql_num = 1, redis_num = 1
+[2019-06-26 02:36:42]--[src_cgi/sharefiles_cgi.c:529]--{
+	"files":	[{
+			"filename":	"top3.png",
+			"pv":	0
+		}]
+}
+[2019-06-26 02:36:44]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 02:36:44]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 02:36:44]--[src_cgi/sharefiles_cgi.c:598]--cmd = normal
+[2019-06-26 02:36:44]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 02:36:44]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 02:36:44]--[src_cgi/sharefiles_cgi.c:172]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2019-06-26 02:36:44]--[src_cgi/sharefiles_cgi.c:292]--{
+	"files":	[{
+			"user":	"madison",
+			"md5":	"0f3a7c3b2e82b201421a76578249634d",
+			"time":	"2019-06-26 02:19:44",
+			"filename":	"top3.png",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://192.168.0.10:80/group1/M00/00/00/wKgACl0SZJ2AE4jiAAB_iAFr4Y8535.png",
+			"size":	32648,
+			"type":	"png"
+		}]
+}
+[2019-06-26 02:37:08]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 02:37:08]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 02:37:08]--[src_cgi/sharefiles_cgi.c:598]--cmd = normal
+[2019-06-26 02:37:08]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 02:37:08]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 02:37:08]--[src_cgi/sharefiles_cgi.c:172]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2019-06-26 02:37:08]--[src_cgi/sharefiles_cgi.c:292]--{
+	"files":	[{
+			"user":	"madison",
+			"md5":	"0f3a7c3b2e82b201421a76578249634d",
+			"time":	"2019-06-26 02:19:44",
+			"filename":	"top3.png",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://192.168.0.10:80/group1/M00/00/00/wKgACl0SZJ2AE4jiAAB_iAFr4Y8535.png",
+			"size":	32648,
+			"type":	"png"
+		}]
+}
+[2019-06-26 02:38:01]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 02:38:01]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 02:38:01]--[src_cgi/sharefiles_cgi.c:598]--cmd = normal
+[2019-06-26 02:38:01]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 02:38:01]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 02:38:01]--[src_cgi/sharefiles_cgi.c:172]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2019-06-26 02:38:01]--[src_cgi/sharefiles_cgi.c:292]--{
+	"files":	[{
+			"user":	"madison",
+			"md5":	"0f3a7c3b2e82b201421a76578249634d",
+			"time":	"2019-06-26 02:19:44",
+			"filename":	"top3.png",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://192.168.0.10:80/group1/M00/00/00/wKgACl0SZJ2AE4jiAAB_iAFr4Y8535.png",
+			"size":	32648,
+			"type":	"png"
+		}]
+}
+[2019-06-26 02:39:00]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 02:39:00]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 02:39:00]--[src_cgi/sharefiles_cgi.c:598]--cmd = pvdesc
+[2019-06-26 02:39:00]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 02:39:00]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 02:39:00]--[src_cgi/sharefiles_cgi.c:399]--sql_num = 1, redis_num = 1
+[2019-06-26 02:39:00]--[src_cgi/sharefiles_cgi.c:529]--{
+	"files":	[{
+			"filename":	"top3.png",
+			"pv":	0
+		}]
+}
+[2019-06-26 02:39:19]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 02:39:19]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 02:39:19]--[src_cgi/sharefiles_cgi.c:598]--cmd = pvdesc
+[2019-06-26 02:39:19]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 02:39:19]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 02:39:19]--[src_cgi/sharefiles_cgi.c:399]--sql_num = 1, redis_num = 1
+[2019-06-26 02:39:19]--[src_cgi/sharefiles_cgi.c:529]--{
+	"files":	[{
+			"filename":	"top3.png",
+			"pv":	0
+		}]
+}
+[2019-06-26 02:39:20]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 02:39:20]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 02:39:20]--[src_cgi/sharefiles_cgi.c:598]--cmd = normal
+[2019-06-26 02:39:20]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 02:39:20]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 02:39:20]--[src_cgi/sharefiles_cgi.c:172]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2019-06-26 02:39:20]--[src_cgi/sharefiles_cgi.c:292]--{
+	"files":	[{
+			"user":	"madison",
+			"md5":	"0f3a7c3b2e82b201421a76578249634d",
+			"time":	"2019-06-26 02:19:44",
+			"filename":	"top3.png",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://192.168.0.10:80/group1/M00/00/00/wKgACl0SZJ2AE4jiAAB_iAFr4Y8535.png",
+			"size":	32648,
+			"type":	"png"
+		}]
+}
+[2019-06-26 02:42:54]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 02:42:54]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 02:42:54]--[src_cgi/sharefiles_cgi.c:598]--cmd = normal
+[2019-06-26 02:42:54]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 02:42:54]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 02:42:54]--[src_cgi/sharefiles_cgi.c:172]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2019-06-26 02:42:54]--[src_cgi/sharefiles_cgi.c:292]--{
+	"files":	[{
+			"user":	"madison",
+			"md5":	"0f3a7c3b2e82b201421a76578249634d",
+			"time":	"2019-06-26 02:19:44",
+			"filename":	"top3.png",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://192.168.0.10:80/group1/M00/00/00/wKgACl0SZJ2AE4jiAAB_iAFr4Y8535.png",
+			"size":	32648,
+			"type":	"png"
+		}]
+}
+[2019-06-26 02:45:21]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 02:45:21]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 02:45:21]--[src_cgi/sharefiles_cgi.c:598]--cmd = pvdesc
+[2019-06-26 02:45:21]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 02:45:21]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 02:45:21]--[src_cgi/sharefiles_cgi.c:399]--sql_num = 1, redis_num = 1
+[2019-06-26 02:45:21]--[src_cgi/sharefiles_cgi.c:529]--{
+	"files":	[{
+			"filename":	"top3.png",
+			"pv":	0
+		}]
+}
+[2019-06-26 02:45:23]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 02:45:23]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 02:45:23]--[src_cgi/sharefiles_cgi.c:598]--cmd = normal
+[2019-06-26 02:45:23]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 02:45:23]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 02:45:23]--[src_cgi/sharefiles_cgi.c:172]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2019-06-26 02:45:23]--[src_cgi/sharefiles_cgi.c:292]--{
+	"files":	[{
+			"user":	"madison",
+			"md5":	"0f3a7c3b2e82b201421a76578249634d",
+			"time":	"2019-06-26 02:19:44",
+			"filename":	"top3.png",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://192.168.0.10:80/group1/M00/00/00/wKgACl0SZJ2AE4jiAAB_iAFr4Y8535.png",
+			"size":	32648,
+			"type":	"png"
+		}]
+}
+[2019-06-26 02:45:28]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 02:45:28]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 02:45:28]--[src_cgi/sharefiles_cgi.c:598]--cmd = pvdesc
+[2019-06-26 02:45:28]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 02:45:28]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 02:45:28]--[src_cgi/sharefiles_cgi.c:399]--sql_num = 1, redis_num = 1
+[2019-06-26 02:45:28]--[src_cgi/sharefiles_cgi.c:529]--{
+	"files":	[{
+			"filename":	"top3.png",
+			"pv":	0
+		}]
+}
+[2019-06-26 02:45:29]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 02:45:29]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 02:45:29]--[src_cgi/sharefiles_cgi.c:598]--cmd = normal
+[2019-06-26 02:45:29]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 02:45:29]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 02:45:29]--[src_cgi/sharefiles_cgi.c:172]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2019-06-26 02:45:29]--[src_cgi/sharefiles_cgi.c:292]--{
+	"files":	[{
+			"user":	"madison",
+			"md5":	"0f3a7c3b2e82b201421a76578249634d",
+			"time":	"2019-06-26 02:19:44",
+			"filename":	"top3.png",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://192.168.0.10:80/group1/M00/00/00/wKgACl0SZJ2AE4jiAAB_iAFr4Y8535.png",
+			"size":	32648,
+			"type":	"png"
+		}]
+}
+[2019-06-26 02:45:49]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 02:45:49]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 02:45:49]--[src_cgi/sharefiles_cgi.c:598]--cmd = normal
+[2019-06-26 02:45:49]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 02:45:49]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 02:45:49]--[src_cgi/sharefiles_cgi.c:172]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2019-06-26 02:45:49]--[src_cgi/sharefiles_cgi.c:292]--{
+	"files":	[{
+			"user":	"madison",
+			"md5":	"0f3a7c3b2e82b201421a76578249634d",
+			"time":	"2019-06-26 02:19:44",
+			"filename":	"top3.png",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://192.168.0.10:80/group1/M00/00/00/wKgACl0SZJ2AE4jiAAB_iAFr4Y8535.png",
+			"size":	32648,
+			"type":	"png"
+		}]
+}
+[2019-06-26 02:45:52]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 02:45:52]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 02:45:52]--[src_cgi/sharefiles_cgi.c:598]--cmd = normal
+[2019-06-26 02:45:52]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 02:45:52]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 02:45:52]--[src_cgi/sharefiles_cgi.c:172]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2019-06-26 02:45:52]--[src_cgi/sharefiles_cgi.c:292]--{
+	"files":	[{
+			"user":	"madison",
+			"md5":	"0f3a7c3b2e82b201421a76578249634d",
+			"time":	"2019-06-26 02:19:44",
+			"filename":	"top3.png",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://192.168.0.10:80/group1/M00/00/00/wKgACl0SZJ2AE4jiAAB_iAFr4Y8535.png",
+			"size":	32648,
+			"type":	"png"
+		}]
+}
+[2019-06-26 02:46:03]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 02:46:03]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 02:46:03]--[src_cgi/sharefiles_cgi.c:598]--cmd = pvdesc
+[2019-06-26 02:46:03]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 02:46:03]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 02:46:03]--[src_cgi/sharefiles_cgi.c:399]--sql_num = 1, redis_num = 1
+[2019-06-26 02:46:03]--[src_cgi/sharefiles_cgi.c:529]--{
+	"files":	[{
+			"filename":	"top3.png",
+			"pv":	0
+		}]
+}
+[2019-06-26 02:46:05]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 02:46:05]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 02:46:05]--[src_cgi/sharefiles_cgi.c:598]--cmd = pvdesc
+[2019-06-26 02:46:05]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 02:46:05]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 02:46:05]--[src_cgi/sharefiles_cgi.c:399]--sql_num = 1, redis_num = 1
+[2019-06-26 02:46:05]--[src_cgi/sharefiles_cgi.c:529]--{
+	"files":	[{
+			"filename":	"top3.png",
+			"pv":	0
+		}]
+}
+[2019-06-26 02:46:06]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 02:46:06]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 02:46:06]--[src_cgi/sharefiles_cgi.c:598]--cmd = normal
+[2019-06-26 02:46:06]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 02:46:06]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 02:46:06]--[src_cgi/sharefiles_cgi.c:172]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2019-06-26 02:46:06]--[src_cgi/sharefiles_cgi.c:292]--{
+	"files":	[{
+			"user":	"madison",
+			"md5":	"0f3a7c3b2e82b201421a76578249634d",
+			"time":	"2019-06-26 02:19:44",
+			"filename":	"top3.png",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://192.168.0.10:80/group1/M00/00/00/wKgACl0SZJ2AE4jiAAB_iAFr4Y8535.png",
+			"size":	32648,
+			"type":	"png"
+		}]
+}
+[2019-06-26 02:46:17]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 02:46:17]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 02:46:17]--[src_cgi/sharefiles_cgi.c:598]--cmd = pvdesc
+[2019-06-26 02:46:17]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 02:46:17]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 02:46:17]--[src_cgi/sharefiles_cgi.c:399]--sql_num = 1, redis_num = 1
+[2019-06-26 02:46:17]--[src_cgi/sharefiles_cgi.c:529]--{
+	"files":	[{
+			"filename":	"top3.png",
+			"pv":	0
+		}]
+}
+[2019-06-26 02:46:18]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 02:46:18]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 02:46:18]--[src_cgi/sharefiles_cgi.c:598]--cmd = normal
+[2019-06-26 02:46:18]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 02:46:18]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 02:46:18]--[src_cgi/sharefiles_cgi.c:172]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2019-06-26 02:46:18]--[src_cgi/sharefiles_cgi.c:292]--{
+	"files":	[{
+			"user":	"madison",
+			"md5":	"0f3a7c3b2e82b201421a76578249634d",
+			"time":	"2019-06-26 02:19:44",
+			"filename":	"top3.png",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://192.168.0.10:80/group1/M00/00/00/wKgACl0SZJ2AE4jiAAB_iAFr4Y8535.png",
+			"size":	32648,
+			"type":	"png"
+		}]
+}
+[2019-06-26 02:46:19]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 02:46:19]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 02:46:19]--[src_cgi/sharefiles_cgi.c:598]--cmd = pvdesc
+[2019-06-26 02:46:19]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 02:46:19]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 02:46:19]--[src_cgi/sharefiles_cgi.c:399]--sql_num = 1, redis_num = 1
+[2019-06-26 02:46:19]--[src_cgi/sharefiles_cgi.c:529]--{
+	"files":	[{
+			"filename":	"top3.png",
+			"pv":	0
+		}]
+}
+[2019-06-26 02:46:20]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 02:46:20]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 02:46:20]--[src_cgi/sharefiles_cgi.c:598]--cmd = normal
+[2019-06-26 02:46:20]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 02:46:20]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 02:46:20]--[src_cgi/sharefiles_cgi.c:172]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2019-06-26 02:46:20]--[src_cgi/sharefiles_cgi.c:292]--{
+	"files":	[{
+			"user":	"madison",
+			"md5":	"0f3a7c3b2e82b201421a76578249634d",
+			"time":	"2019-06-26 02:19:44",
+			"filename":	"top3.png",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://192.168.0.10:80/group1/M00/00/00/wKgACl0SZJ2AE4jiAAB_iAFr4Y8535.png",
+			"size":	32648,
+			"type":	"png"
+		}]
+}
+[2019-06-26 02:46:34]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 02:46:34]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 02:46:34]--[src_cgi/sharefiles_cgi.c:598]--cmd = normal
+[2019-06-26 02:46:34]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 02:46:34]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 02:46:34]--[src_cgi/sharefiles_cgi.c:172]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2019-06-26 02:46:34]--[src_cgi/sharefiles_cgi.c:292]--{
+	"files":	[{
+			"user":	"madison",
+			"md5":	"0f3a7c3b2e82b201421a76578249634d",
+			"time":	"2019-06-26 02:19:44",
+			"filename":	"top3.png",
+			"share_status":	1,
+			"pv":	1,
+			"url":	"http://192.168.0.10:80/group1/M00/00/00/wKgACl0SZJ2AE4jiAAB_iAFr4Y8535.png",
+			"size":	32648,
+			"type":	"png"
+		}]
+}
+[2019-06-26 02:46:35]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 02:46:35]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 02:46:35]--[src_cgi/sharefiles_cgi.c:598]--cmd = pvdesc
+[2019-06-26 02:46:35]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 02:46:35]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 02:46:35]--[src_cgi/sharefiles_cgi.c:399]--sql_num = 1, redis_num = 1
+[2019-06-26 02:46:35]--[src_cgi/sharefiles_cgi.c:529]--{
+	"files":	[{
+			"filename":	"top3.png",
+			"pv":	1
+		}]
+}
+[2019-06-26 02:46:48]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 02:46:48]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 02:46:48]--[src_cgi/sharefiles_cgi.c:598]--cmd = normal
+[2019-06-26 02:46:48]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 02:46:48]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 02:46:48]--[src_cgi/sharefiles_cgi.c:172]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2019-06-26 02:46:48]--[src_cgi/sharefiles_cgi.c:292]--{
+	"files":	[{
+			"user":	"madison",
+			"md5":	"0f3a7c3b2e82b201421a76578249634d",
+			"time":	"2019-06-26 02:19:44",
+			"filename":	"top3.png",
+			"share_status":	1,
+			"pv":	1,
+			"url":	"http://192.168.0.10:80/group1/M00/00/00/wKgACl0SZJ2AE4jiAAB_iAFr4Y8535.png",
+			"size":	32648,
+			"type":	"png"
+		}]
+}
+[2019-06-26 02:46:48]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 02:46:48]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 02:46:48]--[src_cgi/sharefiles_cgi.c:598]--cmd = pvdesc
+[2019-06-26 02:46:48]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 02:46:48]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 02:46:48]--[src_cgi/sharefiles_cgi.c:399]--sql_num = 1, redis_num = 1
+[2019-06-26 02:46:48]--[src_cgi/sharefiles_cgi.c:529]--{
+	"files":	[{
+			"filename":	"top3.png",
+			"pv":	1
+		}]
+}
+[2019-06-26 02:49:20]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 02:49:20]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 02:49:20]--[src_cgi/sharefiles_cgi.c:598]--cmd = normal
+[2019-06-26 02:49:20]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 02:49:20]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 02:49:20]--[src_cgi/sharefiles_cgi.c:172]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2019-06-26 02:49:20]--[src_cgi/sharefiles_cgi.c:292]--{
+	"files":	[{
+			"user":	"madison",
+			"md5":	"0f3a7c3b2e82b201421a76578249634d",
+			"time":	"2019-06-26 02:19:44",
+			"filename":	"top3.png",
+			"share_status":	1,
+			"pv":	1,
+			"url":	"http://192.168.0.10:80/group1/M00/00/00/wKgACl0SZJ2AE4jiAAB_iAFr4Y8535.png",
+			"size":	32648,
+			"type":	"png"
+		}]
+}
+[2019-06-26 02:49:21]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 02:49:21]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 02:49:21]--[src_cgi/sharefiles_cgi.c:598]--cmd = pvdesc
+[2019-06-26 02:49:21]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 02:49:21]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 02:49:21]--[src_cgi/sharefiles_cgi.c:399]--sql_num = 1, redis_num = 1
+[2019-06-26 02:49:21]--[src_cgi/sharefiles_cgi.c:529]--{
+	"files":	[{
+			"filename":	"top3.png",
+			"pv":	1
+		}]
+}
+[2019-06-26 16:22:29]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 16:22:29]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 16:22:29]--[src_cgi/sharefiles_cgi.c:598]--cmd = normal
+[2019-06-26 16:22:29]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 16:22:29]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 16:22:29]--[src_cgi/sharefiles_cgi.c:172]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2019-06-26 16:22:29]--[src_cgi/sharefiles_cgi.c:292]--{
+	"files":	[{
+			"user":	"madison",
+			"md5":	"0f3a7c3b2e82b201421a76578249634d",
+			"time":	"2019-06-26 02:19:44",
+			"filename":	"top3.png",
+			"share_status":	1,
+			"pv":	1,
+			"url":	"http://192.168.0.10:80/group1/M00/00/00/wKgACl0SZJ2AE4jiAAB_iAFr4Y8535.png",
+			"size":	32648,
+			"type":	"png"
+		}]
+}
+[2019-06-26 16:22:29]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 16:22:29]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 16:22:29]--[src_cgi/sharefiles_cgi.c:598]--cmd = pvdesc
+[2019-06-26 16:22:29]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 16:22:29]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 16:22:29]--[src_cgi/sharefiles_cgi.c:399]--sql_num = 1, redis_num = 1
+[2019-06-26 16:22:29]--[src_cgi/sharefiles_cgi.c:529]--{
+	"files":	[{
+			"filename":	"top3.png",
+			"pv":	1
+		}]
+}
+[2019-06-26 17:43:38]--[src_cgi/sharefiles_cgi.c:42]--mysql:[user=admin,pwd=admin,database=cloud_disk][2019-06-26 17:43:38]--[src_cgi/sharefiles_cgi.c:47]--redis:[ip=127.0.0.1,port=6379]
+[2019-06-26 17:47:36]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 17:47:36]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 17:47:36]--[src_cgi/sharefiles_cgi.c:598]--cmd = normal
+[2019-06-26 17:47:36]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 17:47:36]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 17:47:36]--[src_cgi/sharefiles_cgi.c:172]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2019-06-26 17:47:36]--[src_cgi/sharefiles_cgi.c:292]--{
+	"files":	[{
+			"user":	"madison",
+			"md5":	"0f3a7c3b2e82b201421a76578249634d",
+			"time":	"2019-06-26 02:19:44",
+			"filename":	"top3.png",
+			"share_status":	1,
+			"pv":	1,
+			"url":	"http://192.168.0.10:80/group1/M00/00/00/wKgACl0SZJ2AE4jiAAB_iAFr4Y8535.png",
+			"size":	32648,
+			"type":	"png"
+		}]
+}
+[2019-06-26 17:49:36]--[src_cgi/sharefiles_cgi.c:42]--mysql:[user=admin,pwd=admin,database=cloud_disk][2019-06-26 17:49:36]--[src_cgi/sharefiles_cgi.c:47]--redis:[ip=127.0.0.1,port=6379]
+[2019-06-26 17:55:38]--[src_cgi/sharefiles_cgi.c:42]--mysql:[user=admin,pwd=admin,database=cloud_disk][2019-06-26 17:55:38]--[src_cgi/sharefiles_cgi.c:47]--redis:[ip=127.0.0.1,port=6379]
+[2019-06-26 17:59:10]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 17:59:10]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 17:59:10]--[src_cgi/sharefiles_cgi.c:598]--cmd = normal
+[2019-06-26 17:59:10]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 17:59:10]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 17:59:10]--[src_cgi/sharefiles_cgi.c:172]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2019-06-26 17:59:10]--[src_cgi/sharefiles_cgi.c:292]--{
+	"files":	[{
+			"user":	"madison",
+			"md5":	"0f3a7c3b2e82b201421a76578249634d",
+			"time":	"2019-06-26 02:19:44",
+			"filename":	"top3.png",
+			"share_status":	1,
+			"pv":	1,
+			"url":	"http://192.168.0.10:80/group1/M00/00/00/wKgACl0SZJ2AE4jiAAB_iAFr4Y8535.png",
+			"size":	32648,
+			"type":	"png"
+		}]
+}
+[2019-06-26 17:59:11]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 17:59:11]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 17:59:11]--[src_cgi/sharefiles_cgi.c:598]--cmd = pvdesc
+[2019-06-26 17:59:11]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 17:59:11]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 17:59:11]--[src_cgi/sharefiles_cgi.c:399]--sql_num = 1, redis_num = 1
+[2019-06-26 17:59:11]--[src_cgi/sharefiles_cgi.c:529]--{
+	"files":	[{
+			"filename":	"top3.png",
+			"pv":	1
+		}]
+}
+[2019-06-26 17:59:11]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 17:59:11]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 17:59:12]--[src_cgi/sharefiles_cgi.c:598]--cmd = normal
+[2019-06-26 17:59:12]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 17:59:12]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 17:59:12]--[src_cgi/sharefiles_cgi.c:172]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2019-06-26 17:59:12]--[src_cgi/sharefiles_cgi.c:292]--{
+	"files":	[{
+			"user":	"madison",
+			"md5":	"0f3a7c3b2e82b201421a76578249634d",
+			"time":	"2019-06-26 02:19:44",
+			"filename":	"top3.png",
+			"share_status":	1,
+			"pv":	1,
+			"url":	"http://192.168.0.10:80/group1/M00/00/00/wKgACl0SZJ2AE4jiAAB_iAFr4Y8535.png",
+			"size":	32648,
+			"type":	"png"
+		}]
+}
+[2019-06-26 17:59:14]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 17:59:14]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 17:59:14]--[src_cgi/sharefiles_cgi.c:598]--cmd = normal
+[2019-06-26 17:59:14]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 17:59:14]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 17:59:14]--[src_cgi/sharefiles_cgi.c:172]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2019-06-26 17:59:14]--[src_cgi/sharefiles_cgi.c:292]--{
+	"files":	[{
+			"user":	"madison",
+			"md5":	"0f3a7c3b2e82b201421a76578249634d",
+			"time":	"2019-06-26 02:19:44",
+			"filename":	"top3.png",
+			"share_status":	1,
+			"pv":	1,
+			"url":	"http://192.168.0.10:80/group1/M00/00/00/wKgACl0SZJ2AE4jiAAB_iAFr4Y8535.png",
+			"size":	32648,
+			"type":	"png"
+		}]
+}
+[2019-06-26 18:03:40]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 18:03:40]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 18:03:40]--[src_cgi/sharefiles_cgi.c:598]--cmd = normal
+[2019-06-26 18:03:40]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 18:03:40]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 18:03:40]--[src_cgi/sharefiles_cgi.c:172]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2019-06-26 18:03:40]--[src_cgi/sharefiles_cgi.c:292]--{
+	"files":	[{
+			"user":	"madison",
+			"md5":	"0f3a7c3b2e82b201421a76578249634d",
+			"time":	"2019-06-26 02:19:44",
+			"filename":	"top3.png",
+			"share_status":	1,
+			"pv":	1,
+			"url":	"http://192.168.0.10:80/group1/M00/00/00/wKgACl0SZJ2AE4jiAAB_iAFr4Y8535.png",
+			"size":	32648,
+			"type":	"png"
+		}]
+}
+[2019-06-26 18:03:46]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 18:03:46]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 18:03:46]--[src_cgi/sharefiles_cgi.c:598]--cmd = pvdesc
+[2019-06-26 18:03:46]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 18:03:46]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 18:03:46]--[src_cgi/sharefiles_cgi.c:399]--sql_num = 1, redis_num = 1
+[2019-06-26 18:03:46]--[src_cgi/sharefiles_cgi.c:529]--{
+	"files":	[{
+			"filename":	"top3.png",
+			"pv":	1
+		}]
+}
+[2019-06-26 22:27:46]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 22:27:46]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 22:27:46]--[src_cgi/sharefiles_cgi.c:598]--cmd = normal
+[2019-06-26 22:27:46]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 22:27:46]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 22:27:46]--[src_cgi/sharefiles_cgi.c:172]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2019-06-26 22:27:46]--[src_cgi/sharefiles_cgi.c:292]--{
+	"files":	[{
+			"user":	"madison",
+			"md5":	"0f3a7c3b2e82b201421a76578249634d",
+			"time":	"2019-06-26 02:19:44",
+			"filename":	"top3.png",
+			"share_status":	1,
+			"pv":	1,
+			"url":	"http://192.168.0.10:80/group1/M00/00/00/wKgACl0SZJ2AE4jiAAB_iAFr4Y8535.png",
+			"size":	32648,
+			"type":	"png"
+		}]
+}
+[2019-06-26 22:27:46]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 22:27:46]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 22:27:46]--[src_cgi/sharefiles_cgi.c:598]--cmd = pvdesc
+[2019-06-26 22:27:46]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 22:27:46]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 22:27:47]--[src_cgi/sharefiles_cgi.c:399]--sql_num = 1, redis_num = 1
+[2019-06-26 22:27:47]--[src_cgi/sharefiles_cgi.c:529]--{
+	"files":	[{
+			"filename":	"top3.png",
+			"pv":	1
+		}]
+}
+[2019-06-26 22:30:12]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 22:30:12]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 22:30:13]--[src_cgi/sharefiles_cgi.c:598]--cmd = normal
+[2019-06-26 22:30:13]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 22:30:13]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 22:30:13]--[src_cgi/sharefiles_cgi.c:172]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2019-06-26 22:30:13]--[src_cgi/sharefiles_cgi.c:292]--{
+	"files":	[{
+			"user":	"madison",
+			"md5":	"0f3a7c3b2e82b201421a76578249634d",
+			"time":	"2019-06-26 02:19:44",
+			"filename":	"top3.png",
+			"share_status":	1,
+			"pv":	1,
+			"url":	"http://192.168.0.10:80/group1/M00/00/00/wKgACl0SZJ2AE4jiAAB_iAFr4Y8535.png",
+			"size":	32648,
+			"type":	"png"
+		}]
+}
+[2019-06-26 22:30:14]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 22:30:14]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 22:30:14]--[src_cgi/sharefiles_cgi.c:598]--cmd = pvdesc
+[2019-06-26 22:30:14]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 22:30:14]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 22:30:14]--[src_cgi/sharefiles_cgi.c:399]--sql_num = 1, redis_num = 1
+[2019-06-26 22:30:14]--[src_cgi/sharefiles_cgi.c:529]--{
+	"files":	[{
+			"filename":	"top3.png",
+			"pv":	1
+		}]
+}
+[2019-06-26 22:30:29]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 22:30:29]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 22:30:29]--[src_cgi/sharefiles_cgi.c:598]--cmd = normal
+[2019-06-26 22:30:29]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 22:30:29]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 22:30:29]--[src_cgi/sharefiles_cgi.c:172]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2019-06-26 22:30:29]--[src_cgi/sharefiles_cgi.c:292]--{
+	"files":	[{
+			"user":	"madison",
+			"md5":	"0f3a7c3b2e82b201421a76578249634d",
+			"time":	"2019-06-26 02:19:44",
+			"filename":	"top3.png",
+			"share_status":	1,
+			"pv":	1,
+			"url":	"http://192.168.0.10:80/group1/M00/00/00/wKgACl0SZJ2AE4jiAAB_iAFr4Y8535.png",
+			"size":	32648,
+			"type":	"png"
+		}]
+}
+[2019-06-26 22:30:30]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 22:30:30]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 22:30:30]--[src_cgi/sharefiles_cgi.c:598]--cmd = pvdesc
+[2019-06-26 22:30:30]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 22:30:30]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 22:30:30]--[src_cgi/sharefiles_cgi.c:399]--sql_num = 1, redis_num = 1
+[2019-06-26 22:30:30]--[src_cgi/sharefiles_cgi.c:529]--{
+	"files":	[{
+			"filename":	"top3.png",
+			"pv":	1
+		}]
+}
+[2019-06-26 22:30:33]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 22:30:33]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 22:30:33]--[src_cgi/sharefiles_cgi.c:598]--cmd = pvdesc
+[2019-06-26 22:30:33]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 22:30:33]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 22:30:33]--[src_cgi/sharefiles_cgi.c:399]--sql_num = 1, redis_num = 1
+[2019-06-26 22:30:33]--[src_cgi/sharefiles_cgi.c:529]--{
+	"files":	[{
+			"filename":	"top3.png",
+			"pv":	1
+		}]
+}
+[2019-06-26 22:30:34]--[src_cgi/sharefiles_cgi.c:598]--cmd = count
+[2019-06-26 22:30:34]--[src_cgi/sharefiles_cgi.c:85]--line = 1
+[2019-06-26 22:30:34]--[src_cgi/sharefiles_cgi.c:598]--cmd = normal
+[2019-06-26 22:30:34]--[src_cgi/sharefiles_cgi.c:636]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2019-06-26 22:30:34]--[src_cgi/sharefiles_cgi.c:645]--start = 0, count = 1
+[2019-06-26 22:30:34]--[src_cgi/sharefiles_cgi.c:172]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2019-06-26 22:30:34]--[src_cgi/sharefiles_cgi.c:292]--{
+	"files":	[{
+			"user":	"madison",
+			"md5":	"0f3a7c3b2e82b201421a76578249634d",
+			"time":	"2019-06-26 02:19:44",
+			"filename":	"top3.png",
+			"share_status":	1,
+			"pv":	1,
+			"url":	"http://192.168.0.10:80/group1/M00/00/00/wKgACl0SZJ2AE4jiAAB_iAFr4Y8535.png",
+			"size":	32648,
+			"type":	"png"
+		}]
+}
+[2019-06-26 23:07:59]--[src_cgi/sharefiles_cgi.c:42]--mysql:[user=admin,pwd=admin,database=cloud_disk][2019-06-26 23:07:59]--[src_cgi/sharefiles_cgi.c:47]--redis:[ip=127.0.0.1,port=6379]
